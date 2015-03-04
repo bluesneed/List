@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelNote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_string_list">StringList</string>
+    <string name="title_activity_student_list">StudentList</string>
+    <string name="title_activity_news_list">NewsList</string>
+    <string name="title_activity_employee_list">EmployeeList</string>
+    <string name="title_activity_employee_details">EmployeeDetails</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="address">Address</string>
+    <string name="dep">Department</string>
+
+</resources>
